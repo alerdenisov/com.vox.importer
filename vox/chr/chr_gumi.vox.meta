@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: b848937bffdc34e25b39652de544ea98
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: bounds/bounds
+    400000: bounds/bounds/Transform
+    2300000: bounds/bounds/MeshRenderer
+    2800000: slice-0-1
+    2800002: slice-0-2
+    2800004: slice-0-3
+    2800006: slice-0-4
+    2800008: slice-0-5
+    2800010: slice-0-6
+    2800012: slice-0-7
+    2800014: slice-0-8
+    2800016: slice-0-9
+    2800018: slice-0-10
+    2800020: slice-0-11
+    2800022: slice-0-12
+    2800024: slice-0-13
+    2800026: slice-0-14
+    2800028: slice-0-15
+    2800030: slice-0-16
+    2800032: slice-0-17
+    2800034: slice-0-18
+    2800036: slice-0-19
+    2800038: slice-0-20
+    2800040: slice-0-0
+    2800042: pallete
+    3300000: bounds/bounds/MeshFilter
+    6500000: bounds/bounds/BoxCollider
+    11700000: volume-0
+    100100000: bounds
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: fd3efd433bdd4d79abc61d337f1ca5a3, type: 3}

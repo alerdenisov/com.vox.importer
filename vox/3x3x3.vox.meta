@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 97a03c085b30a430a80a8000510e4dd6
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: bounds/bounds
+    400000: bounds/bounds/Transform
+    2300000: bounds/bounds/MeshRenderer
+    2800000: slice-0-1
+    2800002: slice-0-2
+    2800004: slice-0-0
+    2800006: pallete
+    3300000: bounds/bounds/MeshFilter
+    6500000: bounds/bounds/BoxCollider
+    11700000: volume-0
+    100100000: bounds
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: fd3efd433bdd4d79abc61d337f1ca5a3, type: 3}

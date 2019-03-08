@@ -1,0 +1,62 @@
+fileFormatVersion: 2
+guid: 33f068ebc2d864be4b66304a9f2925ec
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: bounds/bounds
+    400000: bounds/bounds/Transform
+    2300000: bounds/bounds/MeshRenderer
+    2800000: slice-0-1
+    2800002: slice-0-2
+    2800004: slice-0-3
+    2800006: slice-0-4
+    2800008: slice-0-5
+    2800010: slice-0-6
+    2800012: slice-0-7
+    2800014: slice-0-8
+    2800016: slice-0-9
+    2800018: slice-0-10
+    2800020: slice-0-11
+    2800022: slice-0-12
+    2800024: slice-0-13
+    2800026: slice-0-14
+    2800028: slice-0-15
+    2800030: slice-0-16
+    2800032: slice-0-17
+    2800034: slice-0-18
+    2800036: slice-0-19
+    2800038: slice-0-20
+    2800040: slice-0-21
+    2800042: slice-0-22
+    2800044: slice-0-23
+    2800046: slice-0-24
+    2800048: slice-0-25
+    2800050: slice-0-26
+    2800052: slice-0-27
+    2800054: slice-0-28
+    2800056: slice-0-29
+    2800058: slice-0-30
+    2800060: slice-0-31
+    2800062: slice-0-32
+    2800064: slice-0-33
+    2800066: slice-0-34
+    2800068: slice-0-35
+    2800070: slice-0-36
+    2800072: slice-0-37
+    2800074: slice-0-38
+    2800076: slice-0-39
+    2800078: slice-0-40
+    2800080: slice-0-41
+    2800082: slice-0-42
+    2800084: slice-0-43
+    2800086: slice-0-44
+    2800088: slice-0-0
+    2800090: pallete
+    3300000: bounds/bounds/MeshFilter
+    6500000: bounds/bounds/BoxCollider
+    11700000: volume-0
+    100100000: bounds
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: fd3efd433bdd4d79abc61d337f1ca5a3, type: 3}

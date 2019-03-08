@@ -1,0 +1,8 @@
+{
+    "name": "com.vox.importer",
+    "author": "Aler Denisov <aler.zampillo@gmail.com>",
+    "displayName": "vox Importer",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "MagicaVoxel Importer (volemetric data)"
+}
